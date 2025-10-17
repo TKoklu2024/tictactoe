@@ -1,6 +1,6 @@
-Tic-Tac-Toe
+# Tic-Tac-Toe
 
-The latest version of Python you are advised to use in this project is Python 3.12.
+## The latest version of Python you are advised to use in this project is Python 3.12.
 
 Using Minimax Algorithm, we will implement an AI to play Tic-Tac-Toe optimally.
 
